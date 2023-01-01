@@ -10,7 +10,7 @@
   "license": "MIT",
   "devDependencies": {
     "express": "^4.17.1",
-    "webpack": "^4.41.2",
+    "webpack": "^5.75.0",
     "webpack-dev-middleware": "^3.7.2",
     "webpack-hot-middleware": "^2.25.0"
   }
